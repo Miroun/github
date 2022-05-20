@@ -1,3 +1,5 @@
+Project from https://github.com/daikiclimate/asahi_changedet
+
 # Intro
 
 I worked on this project for just 6 weeks, so there are a lot of hard encoding, not refactoring, bugs. This repo is not completed.
